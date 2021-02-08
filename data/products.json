@@ -1,0 +1,69 @@
+{
+   "productos": [
+       {
+           "name" : "Avatar VTuber",
+           "description" : "Customed Avatar para Otakus",
+           "price" : "250.90"
+       }, 
+       {
+            "name" : "Anime Poster",
+            "description" : "Poster para Valentin",
+            "price" : "300.00"
+       },
+       {
+            "name" : "Anime VTuber 1",
+            "description" : "Virtual Girl Multi-Use",
+            "price" : "1200.00"
+       },
+       {
+            "name" : "Anime VTuber 2",
+            "description" : "Virtual Girl Multi-Use",
+            "price" : "1250.00"
+       },
+       {
+            "name" : "Anime VTuber 3",
+            "description" : "Virtual Girl Multi-Use",
+            "price" : "1300.00"
+       },
+       {
+            "name" : "Anime VTuber 4",
+            "description" : "Virtual Girl Multi-Use",
+            "price" : "1350.00"
+       },
+       {
+            "name" : "Anime VTuber 5",
+            "description" : "Virtual Girl Multi-Use",
+            "price" : "1400.00"
+       },
+       {
+            "name" : "Anime VTuber 6",
+            "description" : "Virtual Girl Multi-Use",
+            "price" : "1450.00"
+       },
+       {
+            "name" : "Anime VTuber 7",
+            "description" : "Virtual Girl Multi-Use",
+            "price" : "1500.00"
+       },   
+       {
+            "name" : "Anime VTuber 8",
+            "description" : "Virtual Girl Multi-Use",
+            "price" : "1550.00"
+       },   
+       {
+            "name" : "Anime VTuber 9",
+            "description" : "Virtual Girl Multi-Use",
+            "price" : "1600.00"
+       },
+       {
+            "name" : "Anime VTuber 10",
+            "description" : "Virtual Girl Multi-Use",
+            "price" : "1650.00"
+       },
+       {
+            "name" : "Real Woman 3D",
+            "description" : "Real Girl Multi-Use",
+            "price" : "00.00"
+       }    
+   ] 
+}
